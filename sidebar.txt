@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mme:home|Door43 (mme)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mme|d43-mme repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mme/archive/master.zip|d43-mme.zip]]
+
+**Recent Changes**
+{{changes>ns = mme}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mme|Ethnologue data]]
+
